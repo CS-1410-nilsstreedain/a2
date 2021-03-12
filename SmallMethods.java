@@ -1,4 +1,4 @@
-//CS1410 Assignment 2: Small Methods
+//CS1410 Assignment 2: SmallMethods
 //Nils Streedain
 package a2;
 
